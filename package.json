@@ -1,13 +1,14 @@
 {
   "name": "kimstalk",
   "version": "1.0.0",
-  "description": "Brawl Stars player tracker and profile lookup tool",
+  "description": "KimStalk - Brawl Stars player tracker and profile lookup tool",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
     "axios": "^1.7.9",
-    "cheerio": "^1.0.0"
+    "cheerio": "^1.0.0",
+    "express": "^4.21.2"
   }
 }
